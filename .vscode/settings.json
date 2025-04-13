@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "explicit",
+    "editor.cursorStyle": "line",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.mouseWheelZoom": true,
+    "screencastMode.mouseIndicatorColor": "#FFFFFF"
+}
