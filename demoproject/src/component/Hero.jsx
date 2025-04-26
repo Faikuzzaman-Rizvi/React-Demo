@@ -9,7 +9,7 @@ const Hero = (props) => {
             <h2>{props.item.name}</h2>
             { props.tanvir(1)}
 
-            <button onClick={props.childBtn} >submit</button>
+            <button onClick={props.chilBtn} >submit</button>
         </div>
     );
 };
